@@ -1,0 +1,2 @@
+# slush
+Shell in C
